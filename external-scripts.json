@@ -7,7 +7,6 @@
   "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
-  "hubot-responders",
   "hubot-rules",
   "hubot-shipit"
 ]
