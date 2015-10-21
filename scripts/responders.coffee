@@ -29,9 +29,6 @@ class Responders
       for pattern, responder of data.responders
         delete responder.index
         @add(pattern, responder.callback)
-        
-  robot: ->
-    @robot
 
   responders: ->
     @robot.brain.data.responders
